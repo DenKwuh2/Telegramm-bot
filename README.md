@@ -1,2 +1,0 @@
-# Telegramm-bot
-Tg

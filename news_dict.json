@@ -1,0 +1,242 @@
+{
+    "530446": {
+        "article_date_timestamp": 1646408032.0,
+        "article_title": "Государственная дума приняла закон о фейках",
+        "article_url": "https://www.securitylab.ru/news/530446.php",
+        "article_desc": "Штрафы могут достигать полутора миллионов рублей."
+    },
+    "530445": {
+        "article_date_timestamp": 1646406962.0,
+        "article_title": "Компания Microsoft остановила продажи и поддержку продуктов  в России",
+        "article_url": "https://www.securitylab.ru/news/530445.php",
+        "article_desc": "Такое решение принято на фоне эскалации военного конфликта с Украиной."
+    },
+    "530444": {
+        "article_date_timestamp": 1646401400.0,
+        "article_title": "Простой баг в приложении превратил его в ключ от всех дверей в студенческом общежитии",
+        "article_url": "https://www.securitylab.ru/news/530444.php",
+        "article_desc": "Студент был недоволен скоростью работы приложения и случайно понял, как его можно превратить в мастер-ключ."
+    },
+    "530443": {
+        "article_date_timestamp": 1646400443.0,
+        "article_title": "CISA добавило 95 новых CVE в свой список эксплуатируемых уязвимостей",
+        "article_url": "https://www.securitylab.ru/news/530443.php",
+        "article_desc": "﻿CISA призвало исправить ошибки в программном обеспечении Cisco, Microsoft, Adobe, Oracle и других компаний."
+    },
+    "530442": {
+        "article_date_timestamp": 1646397908.0,
+        "article_title": "Эксперты провели атаку по сторонним каналам на гомоморфное шифрование",
+        "article_url": "https://www.securitylab.ru/news/530442.php",
+        "article_desc": "Атаку под названием RevEAL можно использовать для утечки данных в процессе шифрования."
+    },
+    "530441": {
+        "article_date_timestamp": 1646392473.0,
+        "article_title": "Twitch будет банить за фейки на платформе",
+        "article_url": "https://www.securitylab.ru/news/530441.php",
+        "article_desc": "Блокироваться будут пользователи, регулярно публикующие неподтвержденную и опасную информацию."
+    },
+    "530440": {
+        "article_date_timestamp": 1646390694.0,
+        "article_title": "Бесплатные TLS-сертификаты обеспечат доступность сайтов",
+        "article_url": "https://www.securitylab.ru/news/530440.php",
+        "article_desc": "Получить TLS-сертификат можно будет на портале Госуслуг в полностью дистанционном режиме."
+    },
+    "530439": {
+        "article_date_timestamp": 1646385906.0,
+        "article_title": "Хакеры могут взломать голосового помощника Amazon Alexa с помощью аудиокоманд",
+        "article_url": "https://www.securitylab.ru/news/530439.php",
+        "article_desc": "Злоумышленник может с помощью уязвимости в устройстве транслировать команды другим IoT-устройствам."
+    },
+    "530437": {
+        "article_date_timestamp": 1646381846.0,
+        "article_title": "Илон Маск попросил использовать Starlink в Украине «с осторожностью» из-за риска атак",
+        "article_url": "https://www.securitylab.ru/news/530437.php",
+        "article_desc": "Директор SpaceX посоветовал пользователям включать Starlink только при необходимости и размещать антенну как можно дальше от людей."
+    },
+    "530438": {
+        "article_date_timestamp": 1646379757.0,
+        "article_title": "Последняя тестовая сборка Windows 11 запрашивает данные кредитных карт",
+        "article_url": "https://www.securitylab.ru/news/530438.php",
+        "article_desc": "Microsoft рассматривает компьютеры пользователей не как машину для работы и игр, а в первую очередь как инструмент для покупок."
+    },
+    "530436": {
+        "article_date_timestamp": 1646377933.0,
+        "article_title": "Avast выпустила инструмент для восстановления файлов, зашифрованных HermeticRansom",
+        "article_url": "https://www.securitylab.ru/news/530436.php",
+        "article_desc": "Специалисты выявили уязвимость в схеме шифрования HermeticRansom и предоставили скрипт для восстановления файлов."
+    },
+    "530433": {
+        "article_date_timestamp": 1646376394.0,
+        "article_title": "Cisco Systems Inc.  приостановил деловые операции в России",
+        "article_url": "https://www.securitylab.ru/news/530433.php",
+        "article_desc": ""
+    },
+    "530435": {
+        "article_date_timestamp": 1646375636.0,
+        "article_title": "75% медицинских инфузионных насосов содержат уязвимости",
+        "article_url": "https://www.securitylab.ru/news/530435.php",
+        "article_desc": "52% проверенных инфузионных насосов содержали две уязвимости, обнаруженные в 2019 году — одну критическую и одну опасную."
+    },
+    "530434": {
+        "article_date_timestamp": 1646372886.0,
+        "article_title": "Группировка Lapsus$ похитила у Nvidia учетные данные более 71 тыс. сотрудников",
+        "article_url": "https://www.securitylab.ru/news/530434.php",
+        "article_desc": "Похищенные хэши были расшифрованы и теперь циркулируют в даркнете."
+    },
+    "530432": {
+        "article_date_timestamp": 1646368711.0,
+        "article_title": "Для части пользователей в РФ недоступны Facebook, Twitter,  App Store и Google Play",
+        "article_url": "https://www.securitylab.ru/news/530432.php",
+        "article_desc": "Также недоступными оказались некоторые СМИ"
+    },
+    "530449": {
+        "article_date_timestamp": 1646419744.0,
+        "article_title": "Facebook заблокирован на территории России",
+        "article_url": "https://www.securitylab.ru/news/530449.php",
+        "article_desc": ""
+    },
+    "530484": {
+        "article_date_timestamp": 1646769136.0,
+        "article_title": "Instagram перестанет показывать подписчиков и подписки пользователей в РФ и Украине",
+        "article_url": "https://www.securitylab.ru/news/530484.php",
+        "article_desc": "чтобы защитить сообщества в этих странах"
+    },
+    "530483": {
+        "article_date_timestamp": 1646768721.0,
+        "article_title": "Red Hat прекращает работу в России",
+        "article_url": "https://www.securitylab.ru/news/530483.php",
+        "article_desc": ""
+    },
+    "530482": {
+        "article_date_timestamp": 1646763498.0,
+        "article_title": "Сайты российских федеральных ведомств взломаны хакерами",
+        "article_url": "https://www.securitylab.ru/news/530482.php",
+        "article_desc": "На главных страницах сайтов появились изображения с силуэтами военных, танков и украинским и российским флагами."
+    },
+    "530481": {
+        "article_date_timestamp": 1646745052.0,
+        "article_title": "Американский облачный провайдер Cloudflare не намерен прекращать работу в РФ",
+        "article_url": "https://www.securitylab.ru/news/530481.php",
+        "article_desc": "Cloudflare также заявила, что переместила ключи шифрования клиентов из своих центров обработки данных в Украине, России и Беларуси."
+    },
+    "530480": {
+        "article_date_timestamp": 1646734547.0,
+        "article_title": "Кибервойна может быть нацелена на светофоры или тормозные устройства",
+        "article_url": "https://www.securitylab.ru/news/530480.php",
+        "article_desc": "Наша зависимость от интеллектуальных технологий подвергает нас риску по мере роста напряженности в киберпространстве."
+    },
+    "530479": {
+        "article_date_timestamp": 1646727863.0,
+        "article_title": "Обнаружена уязвимость Dirty Pipe в Linux",
+        "article_url": "https://www.securitylab.ru/news/530479.php",
+        "article_desc": "Исправления были выпущены 23 февраля для Linux и 24 февраля для ядра Android."
+    },
+    "530478": {
+        "article_date_timestamp": 1646723199.0,
+        "article_title": "Критические ошибки в TerraMaster TOS удаленно взломать NAS устройства",
+        "article_url": "https://www.securitylab.ru/news/530478.php",
+        "article_desc": "Брешь обнаружили киберэксперты из Эфиопии"
+    },
+    "530477": {
+        "article_date_timestamp": 1646722368.0,
+        "article_title": "Хакеры используют украденные сертификаты Nvidia для сокрытия вредоносных программ",
+        "article_url": "https://www.securitylab.ru/news/530477.php",
+        "article_desc": "Исследователи уже нашли примеры вредоносных файлов, подписанных украденными сертификатами."
+    },
+    "530476": {
+        "article_date_timestamp": 1646721167.0,
+        "article_title": "Coinbase заблокировала более 25 тыс. кошельков из России",
+        "article_url": "https://www.securitylab.ru/news/530476.php",
+        "article_desc": "Компания подробно рассказала о своих действиях"
+    },
+    "530475": {
+        "article_date_timestamp": 1646688355.0,
+        "article_title": "Fortinet  покидает российский рынок",
+        "article_url": "https://www.securitylab.ru/news/530475.php",
+        "article_desc": "Fortinet также пообещала поддержать сотрудников в России, которые останутся без работы"
+    },
+    "530474": {
+        "article_date_timestamp": 1646681781.0,
+        "article_title": "В Минцифре опровергли слухи по отключению России от Интернет",
+        "article_url": "https://www.securitylab.ru/news/530474.php",
+        "article_desc": "Разосланные рекомендации помогут правительству обеспечить защищенное пользование сетью"
+    },
+    "530473": {
+        "article_date_timestamp": 1646672910.0,
+        "article_title": "РЖД отключает Wi-Fi в поездах из-за хакерских атак",
+        "article_url": "https://www.securitylab.ru/news/530473.php",
+        "article_desc": "РЖД предупредили об ограничении работы сети WI-FI в местах общественного доступа"
+    },
+    "530472": {
+        "article_date_timestamp": 1646672048.0,
+        "article_title": "Действия Akamai в отношении России и Украины",
+        "article_url": "https://www.securitylab.ru/news/530472.php",
+        "article_desc": "Компания сохраняет свое присутствие в России, но приостанавливает продажи и сотрудничество с властью."
+    },
+    "530471": {
+        "article_date_timestamp": 1646662413.0,
+        "article_title": "Новая уязвимость безопасности затрагивает тысячи самоуправляемых установок GitLab",
+        "article_url": "https://www.securitylab.ru/news/530471.php",
+        "article_desc": "Проблема связана с отсутствием проверки аутентификации при выполнении определенных запросов GitLab GraphQL API"
+    },
+    "530470": {
+        "article_date_timestamp": 1646647572.0,
+        "article_title": "Россия обнародовала список IP-адресов и доменов, атакующих ее инфраструктуру с помощью DDoS-атак",
+        "article_url": "https://www.securitylab.ru/news/530470.php",
+        "article_desc": ""
+    },
+    "530493": {
+        "article_date_timestamp": 1646814589.0,
+        "article_title": "Уязвимости в APC Smart-UPS подвергают рискам атак критически важную инфраструктуру",
+        "article_url": "https://www.securitylab.ru/news/530493.php",
+        "article_desc": "Эксплуатация уязвимостей позволяет злоумышленникам нанести физический ущерб источникам бесперебойного питания."
+    },
+    "530492": {
+        "article_date_timestamp": 1646812865.0,
+        "article_title": "Китайские хакеры взломали IT-госсистемы в США через уязвимость в системе учета скота",
+        "article_url": "https://www.securitylab.ru/news/530492.php",
+        "article_desc": "Со взломанных компьютеров APT41 похищала персонально идентифицируемую информацию, но зачем, пока неизвестно."
+    },
+    "530491": {
+        "article_date_timestamp": 1646810996.0,
+        "article_title": "Медицинские IoT-устройства от более ста производителей под угрозой кибератак",
+        "article_url": "https://www.securitylab.ru/news/530491.php",
+        "article_desc": "Семь уязвимостей получили общее название Access:7."
+    },
+    "530490": {
+        "article_date_timestamp": 1646809253.0,
+        "article_title": "Железный занавес: какие ИТ-сервисы заблокировали или ушли с российского рынка?",
+        "article_url": "https://www.securitylab.ru/news/530490.php",
+        "article_desc": "Многие организации прекратили свою деятельность на территории РФ ."
+    },
+    "530489": {
+        "article_date_timestamp": 1646807817.0,
+        "article_title": "Microsoft исправила 71 уязвимость в рамках мартовского вторника исправлений",
+        "article_url": "https://www.securitylab.ru/news/530489.php",
+        "article_desc": "Уязвимости удаленного выполнения кода составили 40,8% от общего числа проблем."
+    },
+    "530488": {
+        "article_date_timestamp": 1646807374.0,
+        "article_title": "Уязвимость в Azure Automation позволяла получать доступ к чужим учетным записям Azure",
+        "article_url": "https://www.securitylab.ru/news/530488.php",
+        "article_desc": "Microsoft исправила проблему еще в декабре, но раскрыла только сейчас."
+    },
+    "530487": {
+        "article_date_timestamp": 1646805614.0,
+        "article_title": "Первому вредоносному ПО исполняется 30 лет: вирус Микеланджело",
+        "article_url": "https://www.securitylab.ru/news/530487.php",
+        "article_desc": "Активация вируса происходила 6 марта, в честь дня рождения великого художника."
+    },
+    "530486": {
+        "article_date_timestamp": 1646802417.0,
+        "article_title": "Взломан Румынский газовый гигант",
+        "article_url": "https://www.securitylab.ru/news/530486.php",
+        "article_desc": "Компания, отвечающая за крупную сеть заправочных станций в Румынии, стала жертвой атаки программы-вымогателя, оператор которой требует миллионы долларов за возврат украденных данных."
+    },
+    "530485": {
+        "article_date_timestamp": 1646773073.0,
+        "article_title": "В Минцифры рассказали подробности взлома сайтов органов власти",
+        "article_url": "https://www.securitylab.ru/news/530485.php",
+        "article_desc": ""
+    }
+}
