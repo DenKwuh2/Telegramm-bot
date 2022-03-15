@@ -6,7 +6,7 @@ from aiogram.utils.markdown import hbold, hunderline, hcode, hlink
 from aiogram.dispatcher.filters import Text
 from Test import check_news_update
 
-token = "5144073698:AAHbuCX5i2f_yPKgAE8PsR5dAY1nY5qzDgU"
+token = "...."
 
 bot = Bot(token=token, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
