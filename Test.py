@@ -7,7 +7,7 @@ import time
 
 def get_first_news():
     headers = {
-        "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.45"
+        "user-agent" : "..."
     }
 
     url = "https://www.securitylab.ru/news/"
@@ -48,7 +48,7 @@ def check_news_update():
         news_dict = json.load(file)
 
     headers = {
-        "user-agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.45"
+        "user-agent" : "..."
     }
 
     url = "https://www.securitylab.ru/news/"
